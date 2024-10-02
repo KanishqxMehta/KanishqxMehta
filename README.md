@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kanishq Mehta</h1>
 <h3 align="center">I am a passionate software engineer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishqxmehta&label=Profile%20views&color=0e75b6&style=flat" alt="kanishqxmehta" /> </p>
-
 - 🌱 I’m currently learning **Xcode, Swift, UnrealEngine, etc.**
 
 - 📫 How to reach me **codeswagger06@gmail.com**
