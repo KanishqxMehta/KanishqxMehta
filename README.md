@@ -1,19 +1,35 @@
 ![image](https://github.com/user-attachments/assets/843d016e-d155-418c-88a1-fb59809ab2bc)
 
-<h1 align="center">Hi there 👋, I'm Kanishq Mehta</h1>
-<h3 align="center">A Passionate Software Engineer from India</h3>
+<a href="https://github.com/KanishqxMehta">
+    <img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="170">
+</a>
+
+<p>
+  <h1 align="center">Hi there 👋, I'm Kanishq Mehta</h1>
+  <h3 align="center">A Passionate Software Engineer from India</h3>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=500&color=00C2C6&center=true&vCenter=true&lines=%23 +Full+Stack+Developer;Swift+%7C+Unreal+Engine+Enthusiast;%22+Passionate+Learner+%23+Problem+Solver;Let%27s+build+something+awesome+%F0%9F%92%BB" alt="Typing SVG" style="width: 650px; height: auto;" />
 </p>
 
----
+<a href="https://github.com/KanishqxMehta">
+    <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
 
-- 🌱 I’m currently learning **Xcode, Swift, Unreal Engine, etc.**
-- 📫 How to reach me: **codeswagger06@gmail.com**
-- ⚡ Fun fact: **I love helping peers and collaborating on innovative ideas! 😇**
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" style="margin-right: 10px;" width="100" height="100" align="right" /> 
 
----
+<p style="margin: 10px;">
+
+  - 🌱 I’m currently learning **Xcode, Swift, Unreal Engine, etc.**
+  - 📫 How to reach me: **codeswagger06@gmail.com**
+  - ⚡ Fun fact: **I love helping peers and collaborating on innovative ideas! 😇**
+
+</p>
+
+<a href="https://github.com/KanishqxMehta">
+    <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,9 +42,6 @@
   </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" style="width: 48px;" alt="C++" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://e7.pngegg.com/pngimages/306/37/png-clipart-node-js-logo-node-js-javascript-web-application-express-js-computer-software-others-miscellaneous-text.png" style="width: 48px;" alt="Node.js" />
   </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://github.com/user-attachments/assets/89b0206e-f58a-4421-a95c-02c765a88987" style="width: 48px;" alt="Firebase" />
@@ -69,10 +82,27 @@
   <a href="https://www.w3schools.com/html/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/html-5.png" style="width: 48px;" alt="HTML" />
   </a>
+  <a href="https://www.tailwindcss.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" style="width: 48px;" alt="HTML" />
+  </a>
+  <a href="https://www.tailwindcss.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/nextjs.png" style="width: 48px;" alt="HTML" />
+  </a>
+  <a href="https://www.w3schools.com/java/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" style="width: 48px;" alt="HTML" />
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" style="width: 48px;" alt="HTML" />
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" style="width: 35px;" alt="HTML" />
+  </a>
 </p>
 
+<a href="https://github.com/KanishqxMehta">
+    <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
 
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -90,7 +120,11 @@
   </a>
 </p>
 
----
+<a href="https://github.com/KanishqxMehta">
+    <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+
+
 <div align="center">
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=kanishqxmehta&show_icons=true&theme=radical" alt="Kanishq's GitHub Stats" style="display: inline-block;" />
@@ -102,6 +136,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishqxmehta&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
+<a href="https://github.com/KanishqxMehta">
+    <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+
 
 ### 💡 “Learning is a continuous journey” — Join me on my adventure of discovery and creation!
