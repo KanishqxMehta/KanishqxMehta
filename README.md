@@ -1,182 +1,232 @@
-![image](https://github.com/user-attachments/assets/843d016e-d155-418c-88a1-fb59809ab2bc.gif)
+<h1 align="center">Hi there 👋, I'm Kanishq Mehta</h1>
+<h3 align="center">A Passionate Software Engineer from India</h3>
 
-<a href="https://github.com/KanishqxMehta">
-    <img align="right" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="170">
-</a>
-
-<p>
-  <h1 align="center">Hi there 👋, I'm Kanishq Mehta</h1>
-  <h3 align="center">A Passionate Software Engineer from India</h3>
-</p>
-
-<a href="https://github.com/KanishqxMehta">
-    <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
-</a>
-
-<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" style="margin-right: 10px;" width="100" height="100" align="right" /> 
-
-<p style="margin: 10px;">
-  - 🌱 I'm currently learning **Xcode, Swift, Unreal Engine, Go, Kubernetes, Terraform, etc.**
-  - 📫 How to reach me: **codeswagger06@gmail.com**
-  - ⚡ Fun fact: **I love helping peers and collaborating on innovative ideas! 😇**
-</p>
-
-<a href="https://github.com/KanishqxMehta">
-    <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
-</a>
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <a href="https://developer.apple.com/xcode/" target="_blank">
-    <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" style="width: 55px;" alt="Xcode" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2C6&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;iOS+Developer+%7C+Swift+Enthusiast;Problem+Solver+%26+Lifelong+Learner" alt="Typing SVG" />
+</p>
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kanishqxmehta&label=Profile%20views&color=00C2C6&style=flat" alt="kanishqxmehta" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=kanishqxmehta&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=stars&hide_title=true" alt="Kanishq's GitHub Stats" />
   </a>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishqxmehta&theme=radical&hide_title=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishqxmehta&layout=compact&theme=radical&hide_title=true&hide=Jupyter,Markdown" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishqxmehta&theme=radical&bg_color=1a1b2f&color=00C2C6&line=00C2C6&point=00C2C6&hide_border=true" alt="Kanishq's Activity Graph" />
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
   <a href="https://developer.apple.com/swift/" target="_blank">
-    <img src="https://developer.apple.com/swift/images/swift-og.png" style="width: 48px;" alt="Swift" />
+    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
   </a>
-  <a href="https://go.dev/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Go_Logo_Blue.svg" style="width: 48px;" alt="Go" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" style="width: 48px;" alt="C++" />
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Visual_C_Logo.svg/2048px-Visual_C_Logo.svg.png" style="width: 48px;" alt=".NET" />
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" style="width: 48px;" alt="Java" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" style="width: 48px;" alt="JavaScript" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/typescript.png" style="width: 48px;" alt="TypeScript" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/react-native.png" style="width: 48px;" alt="React" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/nextjs.png" style="width: 48px;" alt="Next.js" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" style="width: 48px;" alt="Node.js" />
-  </a>
-  <a href="https://nestjs.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/nestjs.png" style="width: 48px;" alt="NestJS" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/mongodb.png" style="width: 48px;" alt="MongoDB" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/postgresql.png" style="width: 48px;" alt="PostgreSQL" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/mysql.png" style="width: 48px;" alt="MySQL" />
-  </a>
-  <a href="https://supabase.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/supabase.png" style="width: 48px;" alt="Supabase" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/89b0206e-f58a-4421-a95c-02c765a88987" style="width: 48px;" alt="Firebase" />
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" style="width: 48px;" alt="AWS" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/docker.png" style="width: 48px;" alt="Docker" />
-  </a>
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/kubernetes.png" style="width: 48px;" alt="Kubernetes" />
-  </a>
-  <a href="https://www.hashicorp.com/products/terraform" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/terraform.png" style="width: 48px;" alt="Terraform" />
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Jenkins_logo.svg.png" style="width: 35px;" alt="Jenkins" />
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/github--v1.png" style="width: 48px;" alt="GitHub" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linux.png" style="width: 48px;" alt="Linux" />
-  </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/postman.png" style="width: 48px;" alt="Postman" />
-  </a>
-  <a href="https://www.prisma.io/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/prisma.png" style="width: 48px;" alt="Prisma" />
-  </a>
-  <a href="https://playwright.dev/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/playwright.png" style="width: 48px;" alt="Playwright" />
-  </a>
-  <a href="https://vercel.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/vercel.png" style="width: 48px;" alt="Vercel" />
+  <a href="https://developer.apple.com/xcode/" target="_blank">
+    <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
   </a>
   <a href="https://developer.apple.com/swiftui/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/swiftui.png" style="width: 48px;" alt="SwiftUI" />
+    <img src="https://img.shields.io/badge/SwiftUI-007ACC?style=for-the-badge&logo=swiftui&logoColor=white" alt="SwiftUI" />
   </a>
-  <a href="https://developer.apple.com/documentation/uikit" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/xcode.png" style="width: 48px;" alt="UIKit" />
+  <a href="https://developer.apple.com/uikit/" target="_blank">
+    <img src="https://img.shields.io/badge/UIKit-007ACC?style=for-the-badge&logo=apple&logoColor=white" alt="UIKit" />
   </a>
   <a href="https://developer.apple.com/documentation/mapkit" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/apple-maps.png" style="width: 48px;" alt="MapKit" />
+    <img src="https://img.shields.io/badge/MapKit-007ACC?style=for-the-badge&logo=apple&logoColor=white" alt="MapKit" />
+  </a>
+  <a href="https://developer.apple.com/playground/" target="_blank">
+    <img src="https://img.shields.io/badge/Playgrounds-007ACC?style=for-the-badge&logo=apple&logoColor=white" alt="Playgrounds" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  </a>
+  <a href="https://go.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  </a>
+  <a href="https://nestjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </a>
+  <a href="https://supabase.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  </a>
+  <a href="https://www.terraform.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  </a>
+  <a href="https://www.prisma.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  </a>
+  <a href="https://playwright.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" style="width: 48px;" alt="TailwindCSS" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" style="width: 48px;" alt="Bootstrap" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" style="width: 48px;" alt="CSS" />
-  </a>
-  <a href="https://www.w3schools.com/html/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" style="width: 48px;" alt="HTML" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   </a>
   <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/visual-studio.png" style="width: 48px;" alt="Visual Studio" />
+    <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VS Code" />
   </a>
   <a href="https://www.npmjs.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/npm.png" style="width: 48px;" alt="NPM" />
+    <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
   </a>
 </p>
 
-<a href="https://github.com/KanishqxMehta">
-    <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
-</a>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
+### 💼 Professional Experience
+
+**Locofast Hybrid** — *Full Stack Engineering Intern* · Aug 2025 – May 2026
+- Developed scalable full-stack modules using NestJS & Next.js
+- Designed secure REST APIs with JWT Auth & RBAC
+- Optimized MySQL queries & containerized with Docker
+- CI/CD pipelines with Jenkins & GitHub Actions
+
+**Infosys Mysore** — *Team Lead – Fleet Management System* · Feb 2025
+- Managed cross-functional team of 10 for Swift, Firebase & MapKit iOS app
+- Real-time data sync engine with sub-second updates
+- Enforced CI/CD best practices, reducing bugs by 20%
+
+---
+
+### 🚀 Featured Projects
+
+<p align="left">
+  <a href="https://github.com/KanishqxMehta/Portfolio.OS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishqxmehta&repo=Portfolio.OS&theme=radical&show_owner=true" alt="Portfolio.OS" />
+  </a>
+  <a href="https://github.com/KanishqxMehta/Voxyn">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishqxmehta&repo=Voxyn&theme=radical&show_owner=true" alt="Voxyn" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/KanishqxMehta/FMS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishqxmehta&repo=FMS&theme=radical&show_owner=true" alt="FMS" />
+  </a>
+  <a href="https://github.com/KanishqxMehta/TouchTherapy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishqxmehta&repo=TouchTherapy&theme=radical&show_owner=true" alt="TouchTherapy" />
+  </a>
+  <a href="https://github.com/KanishqxMehta/ai-resume-analyzer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishqxmehta&repo=ai-resume-analyzer&theme=radical&show_owner=true" alt="ai-resume-analyzer" />
+  </a>
+</p>
+
+---
+
+### 🏆 Honors & Achievements
+
+- 🏅 **Swift Student Challenge** (2025, 2026) — Two-time participant
+- 📱 **App Store Publisher** — Launched Voxyn (AI Public Speaking Coach)
+- 🥇 **1st Place – Innovation Challenge** — Hydroponic Control System (IoT)
+- 🎓 **B.E. Software Engineering** (CGPA: 9.14/10) — Chitkara University
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
   <a href="https://linkedin.com/in/kanishq-mehta" target="_blank">
-    <img src="https://github.com/user-attachments/assets/3b96474a-0631-431a-bfd6-ed3121f056b5" style="width: 48px;" alt="Kanishq Mehta | LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.youtube.com/@kanishqmehta" target="_blank">
-    <img src="https://github.com/user-attachments/assets/3b86cd3b-2cb0-4855-8277-0cb11386ad71" style="width: 48px;" alt="Kanishq Mehta | YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="https://www.leetcode.com/kanitani" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" style="width: 48px;" alt="Kanishq Mehta | LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
   <a href="https://www.instagram.com/kanishq_.mehta/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/a8642140-3865-410c-b196-b688b8fc0809" style="width: 48px;" alt="Kanishq Mehta | Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:codeswagger06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<a href="https://github.com/KanishqxMehta">
-    <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
-</a>
+---
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=kanishqxmehta&show_icons=true&theme=radical" alt="Kanishq's GitHub Stats" style="display: inline-block;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishqxmehta&theme=radical" alt="GitHub Streak" style="display: inline-block;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kanishqxmehta&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide=stars&hide_title=true&width=48%" alt="Kanishq's GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishqxmehta&theme=radical&hide_title=true&width=48%" alt="GitHub Streak" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishqxmehta&layout=compact&theme=radical&hide_title=true&hide=Jupyter,Markdown&width=48%" alt="Top Languages" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishqxmehta&theme=radical&bg_color=1a1b2f&color=00C2C6&line=00C2C6&point=00C2C6&hide_border=true&width=48%" alt="Activity Graph" />
   </p>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishqxmehta&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=kanishqxmehta&label=Views&color=00C2C6&style=flat&logo=github" alt="Views" />
+  </p>
+</div>
 
-<a href="https://github.com/KanishqxMehta">
-    <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
-</a>
+---
 
-### 💡 "Learning is a continuous journey" — Join me on my adventure of discovery and creation!
+<div align="center">
+  <p><b>Learning is a continuous journey — Join me on my adventure of discovery and creation! 🚀</b></p>
+</div>
