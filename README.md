@@ -4,7 +4,7 @@
 
 **Full-Stack Software Engineer** — building scalable web platforms & iOS apps
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C2C6?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/KanishqxMehta)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C2C6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolioos.dev/p/kanishq-mehta)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishq-mehta)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanishqmehta06@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/kanitani)
